@@ -19,7 +19,7 @@ Alexa-Reprogrammed is a group of programs with custom Alexa commands designed to
 #
 
 <p>
-  <b>Mission 1: <b/><a href = "Mission 1">https://bit.ly/2Fs00E2</a>
+  <b>Mission 1: <b/><a href = "Mission 1">https://bit.ly/2tDpGuF</a>
   <br><br>
   <b>Mission 2: <b/><a href = "Mission 2">https://bit.ly/35teSg7</a>
   <br><br>
