@@ -13,12 +13,17 @@ Alexa-Reprogrammed is a group of programs with custom Alexa commands designed to
 ### Mission 3
 * Dictate the robots movements using Alexa and set custom commands
 
+### Mission 4
+* Dictate the robots movements and activate varying "modes" (ie. sentry mode) using alexa and custom commands
+
 #
 
 <p>
-  <b>Mission 1: <b/><a href = "Mission 1">https://bit.ly/2LviHKI</a>
+  <b>Mission 1: <b/><a href = "Mission 1">https://bit.ly/2QP9Yoh</a>
   <br><br>
-  <b>Mission 2: <b/><a href = "Mission 2">https://bit.ly/2DTOQqP</a>
+  <b>Mission 2: <b/><a href = "Mission 2">https://bit.ly/35teSg7</a>
   <br><br>
-  <b>Mission 3: <b/><a href = "Mission 3">https://bit.ly/2YCBpp4</a>
+  <b>Mission 3: <b/><a href = "Mission 3">https://bit.ly/2SYlxfO</a>
+  <br><br>
+  <b>Mission 4: <b/><a href = "Mission 4">https://bit.ly/37GRDR4</a>
 </p>
